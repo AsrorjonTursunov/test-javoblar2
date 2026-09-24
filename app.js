@@ -79,8 +79,9 @@
 
 // console.log(boshStr(" "));
 
-function bolinsin5(son) {
-  return +son / 5 == 0;
-}
+// function bolinsin5(son) {
+//   let a = +son
+//   return
+// }
 
-console.log(bolinsin5(5));
+// console.log(bolinsin5(5));
